@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Nov 18 14:12:44 CST 2019:
+ Iniciando instancia a816c00e-016e-8025-6307-0000097fb3c0 de Derby, versión The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): 
+en el directorio de base de datos /home/jismael/NetBeansProjects/ConectarRaya/data con el cargador de clases sun.misc.Launcher$AppClassLoader@61bbe9ba
+Cargado desde file:/home/jismael/software/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_232-b09
+user.dir=/home/jismael/NetBeansProjects/ConectarRaya
+os.name=Linux
+os.arch=amd64
+os.version=5.3.11-300.fc31.x86_64
+derby.system.home=null
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
